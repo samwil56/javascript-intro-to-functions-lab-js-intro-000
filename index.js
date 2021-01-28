@@ -10,4 +10,3 @@ function logShout(string) {
   var shout = string.toUpperCase()
   console.log(shout)
 }
-
